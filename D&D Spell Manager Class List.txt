@@ -1,0 +1,15 @@
+D&D Spell Manager Class List
+
+I.StartScreen Class
+
+II.CharacterInfoScreen Class
+
+III.CreateCharacterScreen Class
+
+IV.SpellSearchScreen Class
+
+V.SpellList Class
+
+VI.Character Class
+
+VII.State Class
