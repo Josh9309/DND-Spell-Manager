@@ -50,6 +50,8 @@
     <Compile Include="CharacterCreationScreen.Designer.cs">
       <DependentUpon>CharacterCreationScreen.cs</DependentUpon>
     </Compile>
+    <Compile Include="Spell.cs" />
+    <Compile Include="SpellDatabase.cs" />
     <Compile Include="SpellSearchScreen.cs">
       <SubType>Form</SubType>
     </Compile>
